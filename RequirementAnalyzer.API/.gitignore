@@ -1,0 +1,65 @@
+# .gitignore for RequirementAnalyzer.API (C#/.NET Core backend)
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Secrets and environment
+.env
+secrets.dev.yaml
+values.dev.yaml
+
+# Docker
+.dockerignore
+Dockerfile*
+
+# Node (if any scripts)
+node_modules/
+npm-debug.log
+
+# Misc
+*.dbmdl
+*.jfm
+charts/
+LICENSE
+
+# Ignore compose files
+compose*
+docker-compose*
+
+# Project settings
+.project
+.settings/
+.toolstarget
+
+# Ignore test coverage, if any
+coverage/
+
+# Ignore README (optional, remove if you want to track it)
+# README.md 
