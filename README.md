@@ -101,3 +101,8 @@ The application will be available at:
 Once the backend is running, you can access the Swagger UI at:
 - Development: `https://localhost:5001/swagger`
 - Docker: `http://localhost:5000/swagger`
+
+![image](https://github.com/user-attachments/assets/6100d1f2-09f0-466e-b257-5e5d066459e9)
+
+![image](https://github.com/user-attachments/assets/e999a7e0-4d7f-4f01-9410-af178e5034b2)
+
